@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+    font-size: large;
+}
+
+.btn{
+    border: grey 10px;
+    background-color: hotpink;
+}
